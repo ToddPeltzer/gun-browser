@@ -8,7 +8,7 @@ function Main(props) {
     return (
         <div>
         
-            Main Page Test
+            Main Page Test!
 
         </div>
     );
